@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Module providing API endpoints for Review resources."""
 
 from api.v1.views import app_views
